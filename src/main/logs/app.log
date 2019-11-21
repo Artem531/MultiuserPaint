@@ -1,0 +1,4 @@
+INFO  2019-11-21 21:39:09,958 [main][Server.java:46] : Сервер запущен 0.0.0.0/0.0.0.012347
+INFO  2019-11-21 21:39:23,171 [main][UserThread.java:36] : Join: /127.0.0.1
+INFO  2019-11-21 21:39:31,603 [Thread-0][UserThread.java:84] : Client: -1 creating room with name: 4234242
+INFO  2019-11-21 21:39:50,307 [Thread-0][UserThread.java:134] : User:/127.0.0.1 EXEPTION: null
